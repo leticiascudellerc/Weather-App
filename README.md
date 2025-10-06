@@ -1,6 +1,6 @@
 # 🌤️ Weather Forecast App
 
-A simple and responsive weather app built with **React** that displays real-time weather information for any city in the world.
+A simple weather app built with **React** that displays real-time weather information for any city in the world.
 
 ## 🚀 Features
 - 🌎 Search weather by city name  
